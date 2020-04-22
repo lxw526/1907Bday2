@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String s = "111";
         String n = "222";
 		String n = "666";
+		String n = "分支1添加777";
 
     }
 }
